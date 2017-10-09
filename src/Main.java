@@ -7,7 +7,8 @@ public class Main extends JFrame{
 
 
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        setSize(400, 0);
+        setSize(400, 3);
+
 
 
     }
