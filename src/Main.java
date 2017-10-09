@@ -9,8 +9,15 @@ public class Main extends JFrame{
 
         setLocationRelativeTo(null);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+<<<<<<< HEAD
         setSize(400, 400);
         setVisible(true);
+=======
+        setSize(400, 3);
+
+
+
+>>>>>>> d9348a06737978ba8ee915c45b63bf3e4d424a51
     }
 
 
