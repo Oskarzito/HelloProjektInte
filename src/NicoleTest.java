@@ -6,13 +6,10 @@ public class NicoleTest {
         private double weight;
         private final double DACHSHUND_TAIL = 3.7;
 
-        public Dog(String name, String race, double weight) {
+        public Dog(String name, double weight) {
             this.name = name;
 
             this.weight = weight;
-
-
-        }
 
         public String getName() {
             return name;
