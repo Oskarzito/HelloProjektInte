@@ -19,6 +19,8 @@ public class Main extends JFrame{
         System.out.println("självfallet eller master i trollkonst");
         System.out.println("master i TrolldrycksElixir på Hogwarts universitet");
         System.out.println("Hello from Erik");
+        System.out.println("Eriks-branch");
+        
     }
 
 
