@@ -5,11 +5,12 @@ public class Main extends JFrame{
 
     public Main(){
 
+        add(new JLabel("HEj allihopa!"));
 
+        setLocationRelativeTo(null);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setSize(400, 400);
-
-
+        setVisible(true);
     }
 
 
