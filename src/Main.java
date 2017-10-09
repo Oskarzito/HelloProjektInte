@@ -1,4 +1,5 @@
 import javax.swing.*;
+import java.awt.*;
 
 public class Main extends JFrame{
 
@@ -6,6 +7,8 @@ public class Main extends JFrame{
     private Main(){
 
         add(new JLabel("Hej allihopa!"));
+
+        setBackground(Color.GREEN);
 
         setLocationRelativeTo(null);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
